@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wrapped_2025.md",
+                "file": "2026/March/Week 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Wrapped_2025 的大纲"
+              "title": "Week 5 的大纲"
             }
           },
           {
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78b8eb4039edaaa",
+  "active": "bee5c5d94b622c4b",
   "lastOpenFiles": [
     "_templates/周报模板.md",
     "2026/March/Week 5.md",
