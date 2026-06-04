@@ -54,5 +54,25 @@
       ],
       "key": "K"
     }
-  ]
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:open-link-in-new-leaf": []
 }
