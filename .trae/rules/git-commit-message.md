@@ -5,7 +5,7 @@ scene: git_message
 
 ### Git提交规范
 
-本项目遵循 **Conventional Commits** 规范，确保提交历史清晰、可追溯，并支持自动生成变更日志（Changelog）。
+本项目遵循 **Conventional Commits** 规范，确保提交历史清晰、可追溯，并支持自动生成变更日志（Changelog）。commit内容使用中文
 
 #### 1. 提交消息格式
 
